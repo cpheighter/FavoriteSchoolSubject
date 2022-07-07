@@ -1,7 +1,9 @@
 ﻿Console.Write("What was your favorite subject in school? ");
 var favSubject = Console.ReadLine();
+string firstletterofstring = favSubject.Substring(0, 1).ToUpper() + favSubject.Substring(1);
+favSubject = firstletterofstring;
 
-switch(favSubject)
+switch (favSubject)
 {
     case "Math":
         Console.WriteLine("Your favorite subject in school was Math");
