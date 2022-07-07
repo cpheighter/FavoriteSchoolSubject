@@ -1,0 +1,15 @@
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\bin\Debug\net6.0\FavoriteSchoolSubject.exe
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\bin\Debug\net6.0\FavoriteSchoolSubject.deps.json
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\bin\Debug\net6.0\FavoriteSchoolSubject.runtimeconfig.json
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\bin\Debug\net6.0\FavoriteSchoolSubject.dll
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\bin\Debug\net6.0\FavoriteSchoolSubject.pdb
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.csproj.AssemblyReference.cache
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.AssemblyInfoInputs.cache
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.AssemblyInfo.cs
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.csproj.CoreCompileInputs.cache
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.dll
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\refint\FavoriteSchoolSubject.dll
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.pdb
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\FavoriteSchoolSubject.genruntimeconfig.cache
+C:\Users\heigh\Desktop\Repos\FavoriteSchoolSubject\FavoriteSchoolSubject\obj\Debug\net6.0\ref\FavoriteSchoolSubject.dll
